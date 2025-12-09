@@ -1,0 +1,34 @@
+# Core App
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+
+# Supabase Database
+supabase==2.4.0
+gotrue==2.4.4
+postgrest==0.15.0
+realtime==1.0.5
+storage3==0.7.3
+
+# Google Gemini AI (official client)
+google-generativeai==0.5.2
+
+# Visualizations
+plotly==5.24.1
+
+# Parsing & Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Async Operations
+aiohttp==3.10.5
+
+# For CSV Upload & Validation
+pyarrow==16.1.0
+
+# For job scraping expansion (LinkedIn, BAG, etc.)
+lxml==5.2.2
+
+# Data processing
+scikit-learn==1.5.2
